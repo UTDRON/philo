@@ -1,3 +1,4 @@
+# Gamified Learning App for Philosophy
 # Playstore Review Scraper
 
 This repo is a part of the IE535 HCI project at University at Buffalo(Fall 2025).
